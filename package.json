@@ -18,10 +18,10 @@
     "serverless-offline": "^4.9.2",
     "serverless-webpack": "^5.2.0",
     "ts-jest": "^24.0.0",
-    "ts-loader": "^5.3.3",
+    "ts-loader": "^9.4.2",
     "ts-node": "^8.0.3",
     "typescript": "^3.3.4000",
-    "webpack": "^4.29.6"
+    "webpack": "^5.75.0"
   },
   "scripts": {
     "start": "tsc && node dist/index.js",
